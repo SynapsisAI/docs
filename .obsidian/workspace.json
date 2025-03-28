@@ -33,7 +33,6 @@
                   "list-collapse": [
                     false,
                     false,
-                    false,
                     false
                   ]
                 }
@@ -194,8 +193,8 @@
   },
   "active": "ac90f0b5a3ecba89",
   "lastOpenFiles": [
-    "Kanban.md",
+    "README.md",
     "Untitled Kanban.md",
-    "README.md"
+    "Kanban.md"
   ]
 }
