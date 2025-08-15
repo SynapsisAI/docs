@@ -15,3 +15,8 @@ Everything you need is in `/workflow`:
 ## API
 
 - TBD
+
+## Testing PDF Files
+
+*Can be found in the `/test_inputs` directory*
+Contains various PDF files for use in testing and fine-tuning Synapsis' parsing and video generation capabilities.
